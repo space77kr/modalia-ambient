@@ -1,72 +1,59 @@
 # Blue Skies
 
-Version: 1.0
+**Collection:** Summer Collection 2026
 
-Project: Summer Collection 2026
+**Artist:** Modalia Ambient
 
-Artist: Modalia Ambient
-
----
-
-# Status
-
-🟡 In Production
+**Status:** In Production
 
 ---
 
-# Basic Information
+## Progress
 
-## Song Title
-
-Blue Skies
-
-## Genre
-
-Dream Pop
-
-## Sub Genre
-
-Ambient Pop
-
-## Mood
-
-Bright
-Youthful
-Hopeful
-Fresh
-Warm
-
-## BPM
-
-120
-
-## Key
-
-To Be Determined
+| Category | Status |
+|----------|:------:|
+| Lyrics | ✅ |
+| Suno Prompt | ✅ |
+| Production Notes | ✅ |
+| Versions | ✅ |
+| Cover Concept | ✅ |
+| Image Prompt | ✅ |
+| Metadata | ✅ |
+| YouTube | ✅ |
+| Spotify | ✅ |
+| Hashtags | ✅ |
+| Audio Drafts | 🟡 |
+| Final Audio | ⬜ |
+| Final Cover | ⬜ |
+| Release | ⬜ |
 
 ---
 
-# Concept
+## Folder Structure
 
-A bright and refreshing summer song that captures the feeling of blue skies, warm sunlight, and youthful memories.
-
----
-
-# Production Checklist
-
-- [x] A&R Planning
-- [ ] Lyrics
-- [ ] Suno Prompt
-- [ ] Music Generation
-- [ ] Review
-- [ ] Cover Art
-- [ ] Video
-- [ ] Release
+```text
+01-blue-skies/
+├── lyrics.md
+├── suno-prompt.md
+├── production-notes.md
+├── versions.md
+├── audio/
+├── cover/
+└── release/
+```
 
 ---
 
-# Related Files
+## Current Goal
 
-- lyrics.md
-- suno-prompt.md
-- production-notes.md
+Create the final audio master and cover artwork.
+
+---
+
+## Next Action
+
+- Generate new Suno versions
+- Review candidates
+- Select the best version
+- Create the final cover
+- Prepare release
